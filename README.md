@@ -1,0 +1,2 @@
+# solidminer
+solidminer
